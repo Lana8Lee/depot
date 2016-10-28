@@ -10,34 +10,36 @@
 /* line 12, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_image {
   width: 60px;
-  height: 70px; }
+  display: block;
+  height: 70px;
+  margin: auto 0; }
 
-/* line 16, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+/* line 18, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_description {
   width: 60%; }
-  /* line 18, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+  /* line 20, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
   .products .list_description dl {
     margin: 0; }
-  /* line 21, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+  /* line 23, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
   .products .list_description dt {
     color: #244;
     font-weight: bold;
     font-size: larger; }
-  /* line 26, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+  /* line 28, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
   .products .list_description dd {
     margin: 0; }
 
-/* line 30, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+/* line 32, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_actions {
   font-size: x-small;
   text-align: right;
   padding-left: 1em; }
 
-/* line 35, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+/* line 37, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_line_even {
   background-color: #b7f7c6; }
 
-/* line 38, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
+/* line 40, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_line_odd {
   background-color: #f8c3b0; }
 
