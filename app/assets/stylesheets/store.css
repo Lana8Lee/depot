@@ -31,7 +31,10 @@
     margin-left: 100px;
     margin-top: 0.5em;
     margin-bottom: 0.8em; }
-  /* line 42, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+    /* line 40, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+    .store .entry p form, .store .entry p div, .store .entry div.price_line form, .store .entry div.price_line div {
+      display: inline; }
+  /* line 45, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
   .store .entry .price {
     color: #44a;
     font-weight: bold;
