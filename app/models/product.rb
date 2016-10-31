@@ -6,4 +6,7 @@ class Product < ApplicationRecord
     with: %r{\.(gif|jpg|png|svg)\Z}i,
     message: 'URL должен указывать на изображение формата GIF, JPG, SVG или PNG.'
   }
+  def self.latest
+    Product.order(:updated_at).last
+  end
 end

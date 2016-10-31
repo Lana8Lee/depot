@@ -1,0 +1,40 @@
+/* line 6, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+.store h1 {
+  margin: 0;
+  padding-bottom: 0.5em;
+  font: 150% sans-serif;
+  color: #226;
+  border-bottom: 3px dotted #77d; }
+
+/* line 14, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+.store .entry {
+  overflow: auto;
+  margin-top: 1em;
+  border-bottom: 1px dotted #77d;
+  min-height: 100px; }
+  /* line 20, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+  .store .entry img {
+    width: 80px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    position: absolute; }
+  /* line 27, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+  .store .entry h3 {
+    font-size: 120%;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 0;
+    margin-bottom: 2px;
+    color: #227; }
+  /* line 36, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+  .store .entry p, .store .entry div.price_line {
+    margin-left: 100px;
+    margin-top: 0.5em;
+    margin-bottom: 0.8em; }
+  /* line 42, C:/Users/Dwayne/web/depot/app/assets/stylesheets/store.scss */
+  .store .entry .price {
+    color: #44a;
+    font-weight: bold;
+    margin-right: 3em; }
+
+/*# sourceMappingURL=store.css.map */

@@ -16,7 +16,7 @@
 
 /* line 18, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_description {
-  width: 60%; }
+  width: 80%; }
   /* line 20, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
   .products .list_description dl {
     margin: 0; }
@@ -37,10 +37,10 @@
 
 /* line 37, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_line_even {
-  background-color: #b7f7c6; }
+  background-color: #BBFFBB; }
 
 /* line 40, C:/Users/Dwayne/web/depot/app/assets/stylesheets/products.scss */
 .products .list_line_odd {
-  background-color: #f8c3b0; }
+  background-color: #99CC99; }
 
 /*# sourceMappingURL=products.css.map */
