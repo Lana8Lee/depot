@@ -101,4 +101,38 @@ body, body > p, body > ol, body > ul, body > td {
   #banner .title {
     display: none; } }
 
+/* line 117, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+.depot_form fieldset {
+  background: #efe; }
+  /* line 120, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+  .depot_form fieldset legend {
+    color: #dfd;
+    background: #141;
+    font-family: sans-serif;
+    padding: 0.2em 1em; }
+  /* line 127, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+  .depot_form fieldset div {
+    margin-bottom: 0.3em; }
+
+/* line 133, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+.depot_form form label {
+  width: 5em;
+  float: left;
+  text-align: right;
+  padding-top: 0.2em;
+  margin-right: 0.1em;
+  display: block; }
+
+/* line 142, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+.depot_form form select, .depot_form form textarea, .depot_form form input {
+  margin-left: 0.5em; }
+
+/* line 146, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+.depot_form form .submit {
+  margin-left: 4em; }
+
+/* line 150, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+.depot_form form br {
+  display: none; }
+
 /*# sourceMappingURL=application.css.css.map */
