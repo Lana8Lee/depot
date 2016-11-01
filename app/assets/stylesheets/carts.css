@@ -1,9 +1,9 @@
 /* line 5, C:/Users/Dwayne/web/depot/app/assets/stylesheets/carts.scss */
-.carts .item_price, .carts .total_line {
+.carts .item_price, .carts .total_line, #side #cart .item_price, #side #cart .total_line {
   text-align: right; }
 
 /* line 8, C:/Users/Dwayne/web/depot/app/assets/stylesheets/carts.scss */
-.carts .total_line .total_cell {
+.carts .total_line .total_cell, #side #cart .total_line .total_cell {
   font-weight: bold;
   border-top: 1px solid #595; }
 
