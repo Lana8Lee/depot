@@ -135,4 +135,9 @@ body, body > p, body > ol, body > ul, body > td {
 .depot_form form br {
   display: none; }
 
+/* line 156, C:/Users/Dwayne/web/depot/app/assets/stylesheets/application.css.scss */
+.locale {
+  float: right;
+  margin: -0.25em 0.1em; }
+
 /*# sourceMappingURL=application.css.css.map */

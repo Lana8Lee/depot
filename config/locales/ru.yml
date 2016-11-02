@@ -1,4 +1,4 @@
-en:
+ru:
 
   number:
     currency:
@@ -46,4 +46,15 @@ en:
       pay_prompt_html: "Выберите способ оплаты"
       submit:       "Заказать"
 
-  thanks:          "Спасибо за заказ"
+  thanks:           "Спасибо за заказ"
+
+  activerecord:
+    models:
+      order:        "Заказ"
+    attributes:
+      order:
+        address:    "Адрес"
+        name:       "Имя"
+        email:      "Почтовый адрес"
+        pay_type:   "Способ оплаты"
+
