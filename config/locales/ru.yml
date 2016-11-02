@@ -1,0 +1,49 @@
+en:
+
+  number:
+    currency:
+      format:
+        unit:      "$"
+        precision: 2
+        separator: "."
+        delimiter: ","
+        format:    "%u%n"
+
+  errors:
+    template:
+      body:        "There were problems with the following fields:"
+      header:
+        one:       "1 error prohibited this %{model} from being saved"
+        other:     "%{count} errors prohibited this %{model} from being saved"
+
+  layouts:
+    application:
+      title:       "The Pragmatic Bookshelf"
+      home:        "Главная"
+      questions:   "Вопросы"
+      news:        "Новости"
+      contact:     "Контакты"
+
+  carts:
+    cart:
+      title:       "Корзина"
+      empty:       "Очистить корзину"
+      checkout:    "Купить"
+
+  store:
+    index:
+      title_html:  "Каталог"
+      add_html:    "Добавить в корзину"
+
+  orders:
+    new:
+      legend:       "Введите свои данные"
+    form:
+      name:         "Имя"
+      address_html: "Адрес"
+      email:        "E-mail"
+      pay_type:     "Способ оплаты"
+      pay_prompt_html: "Выберите способ оплаты"
+      submit:       "Заказать"
+
+  thanks:          "Спасибо за заказ"
